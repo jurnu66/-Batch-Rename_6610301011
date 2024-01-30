@@ -36,4 +36,4 @@ def rename_files(directory, extension):
     print(f"Rename เสร็จสิ้น: {counter-1} ไฟล์")
 
 # เรียกใช้ฟังก์ชัน
-rename_files("D:\ami\ami\VDO", ".jpg")
+rename_files("/path/to/your/directory", ".jpg")
